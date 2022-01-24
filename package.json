@@ -1,0 +1,16 @@
+{
+  "name": "browser-result",
+  "version": "1.0.0",
+  "description": "Tool to detect browser type and version.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scrollstack/browser-result.git"
+  },
+  "author": "tech@scrollstack.com",
+  "keywords": [
+    "browser",
+    "info",
+    "prosemirror"
+  ]
+}
+
